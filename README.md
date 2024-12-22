@@ -106,7 +106,7 @@ To run Careerly locally, follow these steps:
 
 ## Deployment
 
-- The application is deployed on Netlify (frontend) and Render (backend).
+- The application is deployed on Render.
 
 ## Demo
 
