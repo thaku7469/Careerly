@@ -110,7 +110,7 @@ To run Careerly locally, follow these steps:
 
 ## Demo
 
-- You can access the demo of this project by clicking [here](https://talkifyin.netlify.app//)
+- You can access the demo of this project by clicking [here](https://careerly-orug.onrender.com)
 
 ## Screenshots
 
