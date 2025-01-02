@@ -141,7 +141,7 @@ To run Careerly locally, follow these steps:
 
 ## Author
 
-Developed with passion by [Uday Thakur](https://github.com/thaku7469 "Github Link"). Connect with me on [LinkedIn](https://www.linkedin.com/in/uday-thakur-7a835620a) or check out [my portfolio](https://www.linkedin.com/in/uday-thakur-7a835620a).
+Developed with passion by [Uday Thakur](https://github.com/thaku7469 "Github Link"). Connect with me on [LinkedIn](https://www.linkedin.com/in/uday-thakur-7a835620a) or check out [my portfolio](https://udaythakur.site/).
 
 ---
 
